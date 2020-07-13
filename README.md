@@ -21,7 +21,7 @@ const profile = {
     sector: "Any",
     technologies: [
       "Ruby", "Ruby on Rails", "VueJS", "Vue Native", "Javascript", "NodeJS",
-      "MongoDB", "PostgreSQL",
+      "MongoDB", "PostgreSQL", "SaaS", "PaaS", "IaaS",
     ]
   },
   skills: [
@@ -31,5 +31,6 @@ const profile = {
   ],
 }
 ```
-
+[![Linkedin: melvinchng](https://img.shields.io/badge/-melvinchng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/realmelvinchng/)](https://www.linkedin.com/in/realmelvinchng/)
+[![GitHub melvinchng](https://img.shields.io/github/followers/melvinchng?label=follow&style=social)](https://github.com/melvinchng)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=melvinchng)
