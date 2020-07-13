@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./nyancat.gif" width=200>
+  <img src="https://raw.githubusercontent.com/melvinchng/melvinchng/master/nyancat.gif" width=200>
 </p>
 
 ```javascript
@@ -20,11 +20,14 @@ const profile = {
   preferences: {
     sector: "Any",
     technologies: [
-      "Ruby", "Ruby on Rails", "VueJS", "Vue Native", "MongoDB", "PostgreSQL", "Javascript", "NodeJS"
+      "Ruby", "Ruby on Rails", "VueJS", "Vue Native", "Javascript", "NodeJS",
+      "MongoDB", "PostgreSQL",
     ]
   },
   skills: [
-    "Rapid Prototyping", "Reverse Engineering", "Restore and Reburbish", "Repair and Modify", "RTOS", "FPGA", "Digital Design", "3D Printing", "Web Scraping", 
+    "Web Development", "Mobile App Development", "Database Design", "Web Scraping",
+    "Rapid Prototyping", "Reverse Engineering", "Restore and Reburbish", "Repair and Modify", 
+    "RTOS", "FPGA", "Digital Design", "3D Printing",
   ],
 }
 ```
