@@ -1,16 +1,32 @@
-### Coming Soon, I guess
+<p align="center">
+  <img src="./nyancat.gif" width=200>
+</p>
 
-<!--
-**melvinchng/melvinchng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const profile = {
+  name: "Melvin Ch'ng",
+  location: [ 
+    "Penang", "Kuala Lumpur" 
+  ],
+  education: {
+    level: "Bachelor",
+    major: "Computer Engineering",
+    institution: "San Jose State, California",
+  },
+  current: {
+    sector: "MarTech (Marketing and Technology)",
+    position: "Full-Stack Software Engineer"
+  },
+  preferences: {
+    sector: "Any",
+    technologies: [
+      "Ruby", "Ruby on Rails", "VueJS", "Vue Native", "MongoDB", "PostgreSQL", "Javascript", "NodeJS"
+    ]
+  },
+  skills: [
+    "Rapid Prototyping", "Reverse Engineering", "Restore and Reburbish", "Repair and Modify", "RTOS", "FPGA", "Digital Design", "3D Printing", "Web Scraping", 
+  ],
+}
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=melvinchng)
