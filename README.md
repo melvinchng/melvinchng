@@ -3,10 +3,25 @@
 </p>
 
 ```javascript
+// What am I currently doing?
+// Building products to disrupt the industry Search Results 📦
+```
+
+```javascript
+// Looking for my contact information?
+// You can get it from my website 😊
+```
+
+```javascript
+// Have interesting projects and looking for people to contribute?
+// Count me in! 🙌
+```
+
+```javascript
 const profile = {
   name: "Melvin Ch'ng",
   location: [ 
-    "Penang", "Kuala Lumpur" 
+    "Penang", "Kuala Lumpur"
   ],
   education: {
     level: "Bachelor",
