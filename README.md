@@ -4,7 +4,7 @@
 
 ```javascript
 // What am I currently doing?
-// Building products to disrupt the industry Search Results 📦
+// Building products to disrupt the industry 📦
 ```
 
 ```javascript
