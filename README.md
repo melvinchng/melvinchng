@@ -31,7 +31,7 @@ const profile = {
   },
   skills: [
     "Web Development", "Mobile App Development", "Database Design", "Web Scraping",
-    "Rapid Prototyping", "Reverse Engineering", "Restore and Reburbish", "Repair and Modify", 
+    "Rapid Prototyping", "Reverse Engineering", "Restore and Refurbish", "Repair and Modify", 
     "RTOS", "FPGA", "Digital Design", "3D Printing",
   ],
 }
