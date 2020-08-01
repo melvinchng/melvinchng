@@ -8,16 +8,6 @@
 ```
 
 ```javascript
-// Looking for my contact information?
-// You can get it from my website 😊
-```
-
-```javascript
-// Have interesting projects and looking for people to contribute?
-// Count me in! 🙌
-```
-
-```javascript
 const profile = {
   name: "Melvin Ch'ng",
   location: [ 
@@ -46,5 +36,16 @@ const profile = {
   ],
 }
 ```
+
+```javascript
+// Looking for my contact information?
+// You can get it from my website 😊
+```
+
+```javascript
+// Have interesting projects and looking for people to contribute?
+// Count me in! 🙌
+```
+
 [![Linkedin: melvinchng](https://img.shields.io/badge/-melvinchng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/realmelvinchng/)](https://www.linkedin.com/in/realmelvinchng/)
 [![GitHub melvinchng](https://img.shields.io/github/followers/melvinchng?label=follow&style=social)](https://github.com/melvinchng)
