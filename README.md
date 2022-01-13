@@ -20,13 +20,14 @@ const profile = {
   },
   current: {
     sector: "MarTech (Marketing and Technology)",
-    position: "Full-Stack Software Engineer"
+    role: "Data Engineering (Technical Business Product Owner)"
   },
   preferences: {
     sector: "Any",
     technologies: [
       "Ruby", "Ruby on Rails", "VueJS", "Vue Native", "Javascript", "NodeJS",
-      "MongoDB", "PostgreSQL", "SaaS", "PaaS", "IaaS",
+      "MongoDB", "PostgreSQL", "SaaS", "PaaS", "IaaS", "Python", "Kubernetes", "PKS",
+      "DevOps"
     ]
   },
   skills: [
